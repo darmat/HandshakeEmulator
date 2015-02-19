@@ -4,6 +4,8 @@ This is a C# interface for an industrial equipment emulator.
 # Prerequisites 
 OPC server connection and Siemens RTDS libraries. 
 
+# Functionalities
+
 This was created when working off-site and equipment were not available and used for handshake communication testing.
 
 The emulated equipment can:
