@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  
+  <!-- List of equipment to emulate -->
+  <EquipmentList>
+
+    <Equip>
+      <Name>Work Cell Controler 1</Name>
+      <Prefix>WCCTL_2_</Prefix>
+      <Id>51</Id>
+    </Equip>  
+    
+    <Equip>
+      <Name>Work Cell Controller 2</Name>
+      <Prefix>WCCTL_2_</Prefix>
+      <Id>52</Id>
+    </Equip>  
+      
+    <Equip>
+      <Name>RABIT 2</Name>
+      <Prefix>RABIT_2_</Prefix>
+      <Id>302</Id>
+    </Equip>  
+ 
+    <Equip>
+      <Name>RABIT 1</Name>
+      <Prefix>RABIT_1_</Prefix>
+      <Id>301</Id>
+    </Equip>  
+    
+    <Equip>
+      <Name>KUKA 1</Name>
+      <Prefix>KUKA_1_</Prefix>
+      <Id>501</Id>
+    </Equip>  
+  
+    <Equip>
+      <Name>CRAWLER 1</Name>
+      <Prefix>CRWL_1_</Prefix>
+      <Id>601</Id>
+    </Equip> 
+  
+  </EquipmentList>
+
+  <!-- List of equipment command ids -->
+  <CommandList>
+
+    <Command>
+      <Name>Level</Name>
+      <Id>1</Id>
+    </Command>
+  
+    <Command>
+      <Name>Set Height</Name>
+      <Id>2</Id>
+    </Command>
+  
+    <Command>
+      <Name>Get Level Data</Name>
+      <Id>24</Id>
+    </Command>
+      
+    <Command>
+      <Name>Return Home</Name>
+      <Id>16</Id>
+    </Command>
+    
+    <Command>
+      <Name>Transfer MUT to WP</Name>
+      <Id>17</Id>
+    </Command>
+    
+    <Command>
+      <Name>Transfer WP to MUT</Name>
+      <Id>18</Id>
+    </Command>
+      
+    <Command>
+      <Name>Feed Stop</Name>
+      <Id>10</Id>
+    </Command>
+    
+    <Command>
+      <Name>Feed Start</Name>
+      <Id>11</Id>
+    </Command>
+  
+  </CommandList>
+    
+  <!-- Handshake parameters, both CMD and STS side -->
+  <Parameters>
+    
+    <CmdReq>
+      <Param Name="ActionType" Suffix ="CMD_Req_Action_Type"/>
+      <Param Name="TransactionId" Suffix="CMD_Req_Trans_Id" />
+      <Param Name="EquipmentId" Suffix="CMD_Req_Proxy_Equip_Id" />
+      <Param Name="ActionCommand" Suffix="CMD_Req_Action_Command"/>
+      <Param Name="TimestampYear" Suffix="CMD_Req_Year" />
+      <Param Name="TimestampMonth" Suffix="CMD_Req_Month" />
+      <Param Name="TimestampDay" Suffix="CMD_Req_Day" />
+      <Param Name="TimestampHour" Suffix="CMD_Req_Hour" />
+      <Param Name="TimestampMinute" Suffix="CMD_Req_Minute" />
+      <Param Name="TimestampSecond" Suffix="CMD_Req_Second" />
+      <Param Name="String1" Suffix="CMD_Req_String_1"/>
+      <Param Name="String2" Suffix="CMD_Req_String_2"/>
+      <Param Name="Float1" Suffix="CMD_Req_Float_1"/>
+      <Param Name="Float2" Suffix="CMD_Req_Float_2"/>
+      <Param Name="Float3" Suffix="CMD_Req_Float_3"/>
+      <Param Name="Float4" Suffix="CMD_Req_Float_4"/>
+      <Param Name="Float5" Suffix="CMD_Req_Float_5"/>
+      <Param Name="Float6" Suffix="CMD_Req_Float_6"/>
+      <Param Name="Float7" Suffix="CMD_Req_Float_7"/>
+      <Param Name="Int1" Suffix="CMD_Req_Int_1"/>
+      <Param Name="Int2" Suffix="CMD_Req_Int_2"/>
+      <Param Name="Int3" Suffix="CMD_Req_Int_3"/>
+    </CmdReq>
+    
+    <StsResp>
+      <Param Name="ResultStatus" Suffix="STS_Resp_Result_Status" />
+      <Param Name="EquipmentId" Suffix="STS_Resp_Equipment_Id" />
+      <Param Name="TransactionId" Suffix="STS_Resp_Trans_Id" />
+      <Param Name="TimestampYear" Suffix="STS_Resp_Year" />
+      <Param Name="TimestampMonth" Suffix="STS_Resp_Month" />
+      <Param Name="TimestampDay" Suffix="STS_Resp_Day" />
+      <Param Name="TimestampHour" Suffix="STS_Resp_Hour" />
+      <Param Name="TimestampMinute" Suffix="STS_Resp_Minute" />
+      <Param Name="TimestampSecond" Suffix="STS_Resp_Second" />
+      <Param Name="String1" Suffix="STS_Resp_String_1" />
+      <Param Name="String2" Suffix="STS_Resp_String_2" />
+      <Param Name="Float1" Suffix="STS_Resp_Float_1" />
+      <Param Name="Float2" Suffix="STS_Resp_Float_2" />
+      <Param Name="Float3" Suffix="STS_Resp_Float_3" />
+      <Param Name="Float4" Suffix="STS_Resp_Float_4" />
+      <Param Name="Float5" Suffix="STS_Resp_Float_5" />
+      <Param Name="Float6" Suffix="STS_Resp_Float_6" />
+      <Param Name="Float7" Suffix="STS_Resp_Float_7" />
+      <Param Name="Int1" Suffix="STS_Resp_Int_1" />
+      <Param Name="Int2" Suffix="STS_Resp_Int_2" />
+      <Param Name="Int3" Suffix="STS_Resp_Int_3" />
+    </StsResp>
+    
+    <CmdResp>
+      <Param Name="ResultStatus" Suffix="CMD_Resp_Result_Status" />
+      <Param Name="EquipmentId" Suffix="CMD_Resp_Equipment_Id" />
+      <Param Name="TransactionId" Suffix="CMD_Resp_Trans_Id" />
+      <Param Name="TimestampYear" Suffix="CMD_Resp_Year" />
+      <Param Name="TimestampMonth" Suffix="CMD_Resp_Month" />
+      <Param Name="TimestampDay" Suffix="CMD_Resp_Day" />
+      <Param Name="TimestampHour" Suffix="CMD_Resp_Hour" />
+      <Param Name="TimestampMinute" Suffix="CMD_Resp_Minute" />
+      <Param Name="TimestampSecond" Suffix="CMD_Resp_Second" />
+      <Param Name="String1" Suffix="CMD_Resp_String_1" />
+      <Param Name="String2" Suffix="CMD_Resp_String_2" />
+      <Param Name="Float1" Suffix="CMD_Resp_Float_1" />
+      <Param Name="Float2" Suffix="CMD_Resp_Float_2" />
+      <Param Name="Float3" Suffix="CMD_Resp_Float_3" />
+      <Param Name="Float4" Suffix="CMD_Resp_Float_4" />
+      <Param Name="Float5" Suffix="CMD_Resp_Float_5" />
+      <Param Name="Float6" Suffix="CMD_Resp_Float_6" />
+      <Param Name="Float7" Suffix="CMD_Resp_Float_7" />
+      <Param Name="Int1" Suffix="CMD_Resp_Int_1" />
+      <Param Name="Int2" Suffix="CMD_Resp_Int_2" />
+      <Param Name="Int3" Suffix="CMD_Resp_Int_3" />
+    </CmdResp>
+    
+    <StsReq>
+      <Param Name="ActionType" Suffix ="STS_Req_Action_Type"/>
+      <Param Name="TransactionId" Suffix="STS_Req_Trans_Id" />
+      <Param Name="EquipmentId" Suffix="STS_Req_Proxy_Equip_Id" />
+      <Param Name="ActionCommand" Suffix="STS_Req_Action_Command"/>
+      <Param Name="TimestampYear" Suffix="STS_Req_Year" />
+      <Param Name="TimestampMonth" Suffix="STS_Req_Month" />
+      <Param Name="TimestampDay" Suffix="STS_Req_Day" />
+      <Param Name="TimestampHour" Suffix="STS_Req_Hour" />
+      <Param Name="TimestampMinute" Suffix="STS_Req_Minute" />
+      <Param Name="TimestampSecond" Suffix="STS_Req_Second" />
+      <Param Name="String1" Suffix="STS_Req_String_1"/>
+      <Param Name="String2" Suffix="STS_Req_String_2"/>
+      <Param Name="Float1" Suffix="STS_Req_Float_1"/>
+      <Param Name="Float2" Suffix="STS_Req_Float_2"/>
+      <Param Name="Float3" Suffix="STS_Req_Float_3"/>
+      <Param Name="Float4" Suffix="STS_Req_Float_4"/>
+      <Param Name="Float5" Suffix="STS_Req_Float_5"/>
+      <Param Name="Float6" Suffix="STS_Req_Float_6"/>
+      <Param Name="Float7" Suffix="STS_Req_Float_7"/>
+      <Param Name="Int1" Suffix="STS_Req_Int_1"/>
+      <Param Name="Int2" Suffix="STS_Req_Int_2"/>
+      <Param Name="Int3" Suffix="STS_Req_Int_3"/>
+    </StsReq>
+
+    <EquipStatusParameters>
+      <Param Name="ModeAuto" Suffix="STS_Mode_Auto" />
+      <Param Name="ModeSemiAuto" Suffix="STS_Mode_Semi_Auto" />
+      <Param Name="ModeManual" Suffix="STS_Mode_Manual" />
+      <Param Name="ModeLocked" Suffix="STS_Mode_Locked" />
+      <Param Name="ModeDebug" Suffix="STS_Mode_Debug" />
+      <Param Name="DowntimesRunning" Suffix="STS_Downtime_Running" />
+      <Param Name="DowntimesIdle" Suffix="STS_Downtime_Idle" />
+      <Param Name="DowntimesStopped" Suffix="STS_Downtime_Emergency" />
+      <Param Name="StatusRunning" Suffix="STS_Status_Running" />
+      <Param Name="StatusIdle" Suffix="STS_Status_Idle" />
+      <Param Name="StatusStopped" Suffix="STS_Status_Stopped" />
+      <Param Name="EquipmentStop" Suffix="STS_PermEquip_E_Stop" />
+      <Param Name="NodeStop" Suffix="STS_PermNode_E_Stop" />
+      <Param Name="NodeMajor" Suffix="STS_PermNode_Major" />
+      <Param Name="NodeMinor" Suffix="STS_PermNode_Minor" />
+      <Param Name="ZoneStop" Suffix="STS_PermZone_E_Stop" />
+      <Param Name="ZoneMajor" Suffix="STS_PermZone_Major" />
+      <Param Name="ZoneMinor" Suffix="STS_PermZone_Minor" />
+      <Param Name="CellStop" Suffix="STS_PermCell_E_Stop" />
+      <Param Name="CellMajor" Suffix="STS_PermCell_Major" />
+      <Param Name="CellMinor" Suffix="STS_PermCell_Minor" />
+    </EquipStatusParameters>
+
+    <DowntimesParameters>
+      <Param Name="DowntimesHydraulic" Suffix="STS_Downtime_Hydraulic" />
+      <Param Name="DowntimesPneumatic" Suffix="STS_Downtime_Pneumatic" />
+      <Param Name="DowntimesElectrical" Suffix="STS_Downtime_Electrical" />
+      <Param Name="DowntimesTooling" Suffix="STS_Downtime_Tooling" />
+      <Param Name="DowntimesPrevMaint" Suffix="STS_Downtime_Prev_Maint" />
+      <Param Name="DowntimesUnscheduled" Suffix="STS_Downtime_Unsched" />
+      <Param Name="DowntimesScheduled" Suffix="STS_Downtime_Scheduled" />
+    </DowntimesParameters>
+  
+  </Parameters>
+  
+  <!-- Various -->
+  <CmdReqChannelStatus>CMD_Req_Channel_Status</CmdReqChannelStatus>
+  <StsRespChannelStatus>STS_Resp_Channel_Status</StsRespChannelStatus>
+  <StsReqChannelStatus>STS_Req_Channel_Status</StsReqChannelStatus>
+  <CmdRespChannelStatus>CMD_Resp_Channel_Status</CmdRespChannelStatus>
+
+  <ReqErrorCodes>STS_Fault_Code</ReqErrorCodes>
+  <UnitName>RABIT</UnitName>
+  
+</Configuration>

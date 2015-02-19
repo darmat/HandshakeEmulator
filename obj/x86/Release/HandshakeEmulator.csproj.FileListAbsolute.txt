@@ -1,0 +1,22 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HandshakeEmulator\HandshakeEmulator\bin\x86\Release\HandshakeEmulator.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HandshakeEmulator\HandshakeEmulator\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HandshakeEmulator\HandshakeEmulator\obj\x86\Release\HandshakeEmulator.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HandshakeEmulator\HandshakeEmulator\obj\x86\Release\HandshakeEmulator.HandshakeUI.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HandshakeEmulator\HandshakeEmulator\obj\x86\Release\HandshakeEmulator.csproj.GenerateResource.Cache
+C:\HandshakeEmulator\HandshakeEmulator\bin\x86\Release\HandshakeEmulator.exe.config
+C:\HandshakeEmulator\HandshakeEmulator\obj\x86\Release\HandshakeEmulator.exe
+C:\HandshakeEmulator\HandshakeEmulator\bin\x86\Release\HandshakeEmulator.exe
+C:\HandshakeEmulator\HandshakeEmulator\obj\x86\Release\HandshakeEmulator.HandshakeUI.resources
+C:\HandshakeEmulator\HandshakeEmulator\obj\x86\Release\HandshakeEmulator.csproj.GenerateResource.Cache
+C:\HandshakeEmulator\HandshakeEmulator\obj\x86\Release\HandshakeEmulator.csprojResolveAssemblyReference.cache
+C:\Users\Matteo\Documents\Boeing\BackUp\HandshakeEmulator\HandshakeEmulator\bin\x86\Release\HandshakeEmulator.exe.config
+C:\Users\Matteo\Documents\Boeing\BackUp\HandshakeEmulator\HandshakeEmulator\obj\x86\Release\HandshakeEmulator.exe
+C:\Users\Matteo\Documents\Boeing\BackUp\HandshakeEmulator\HandshakeEmulator\obj\x86\Release\HandshakeEmulator.csprojResolveAssemblyReference.cache
+C:\Users\Matteo\Documents\Boeing\BackUp\HandshakeEmulator\HandshakeEmulator\obj\x86\Release\HandshakeEmulator.HandshakeUI.resources
+C:\Users\Matteo\Documents\Boeing\BackUp\HandshakeEmulator\HandshakeEmulator\obj\x86\Release\HandshakeEmulator.csproj.GenerateResource.Cache
+C:\Update 6-30\HandshakeEmulator\HandshakeEmulator\bin\x86\Release\HandshakeEmulator.exe.config
+C:\Update 6-30\HandshakeEmulator\HandshakeEmulator\obj\x86\Release\HandshakeEmulator.exe
+C:\Update 6-30\HandshakeEmulator\HandshakeEmulator\bin\x86\Release\HandshakeEmulator.exe
+C:\Update 6-30\HandshakeEmulator\HandshakeEmulator\obj\x86\Release\HandshakeEmulator.csprojResolveAssemblyReference.cache
+C:\Update 6-30\HandshakeEmulator\HandshakeEmulator\obj\x86\Release\HandshakeEmulator.HandshakeUI.resources
+C:\Update 6-30\HandshakeEmulator\HandshakeEmulator\obj\x86\Release\HandshakeEmulator.csproj.GenerateResource.Cache

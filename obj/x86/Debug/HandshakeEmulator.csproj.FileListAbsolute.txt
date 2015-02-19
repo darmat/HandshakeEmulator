@@ -1,0 +1,32 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HandshakeEmulator\HandshakeEmulator\bin\x86\Debug\HandshakeEmulator.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HandshakeEmulator\HandshakeEmulator\bin\x86\Debug\HandshakeEmulator.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\HandshakeEmulator.HandshakeUI.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\HandshakeEmulator.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\HandshakeEmulator.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\HandshakeEmulator.pdb
+C:\Users\Matteo\Documents\Boeing\BackUp\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\HandshakeEmulator.csprojResolveAssemblyReference.cache
+C:\Users\Matteo\Documents\Boeing\BackUp\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\HandshakeEmulator.HandshakeUI.resources
+C:\Users\Matteo\Documents\Boeing\BackUp\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\HandshakeEmulator.csproj.GenerateResource.Cache
+C:\Update 6-30\HandshakeEmulator\HandshakeEmulator\bin\x86\Debug\HandshakeEmulator.exe.config
+C:\Update 6-30\HandshakeEmulator\HandshakeEmulator\bin\x86\Debug\HandshakeEmulator.exe
+C:\Update 6-30\HandshakeEmulator\HandshakeEmulator\bin\x86\Debug\HandshakeEmulator.pdb
+C:\Update 6-30\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\HandshakeEmulator.csprojResolveAssemblyReference.cache
+C:\Update 6-30\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\HandshakeEmulator.HandshakeUI.resources
+C:\Update 6-30\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\HandshakeEmulator.csproj.GenerateResource.Cache
+C:\Update 6-30\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\HandshakeEmulator.exe
+C:\Update 6-30\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\HandshakeEmulator.pdb
+C:\HandshakeEmulator\HandshakeEmulator\bin\x86\Debug\HandshakeEmulator.exe
+C:\HandshakeEmulator\HandshakeEmulator\bin\x86\Debug\HandshakeEmulator.exe.config
+C:\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\HandshakeEmulator.AboutBox1.resources
+C:\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\HandshakeEmulator.DowntimesForm.resources
+C:\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\HandshakeEmulator.HandshakeUi.resources
+C:\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\HandshakeEmulator.ParametersForm.resources
+C:\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\HandshakeEmulator.Properties.Resources.resources
+C:\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\HandshakeEmulator.csproj.GenerateResource.Cache
+C:\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\HandshakeEmulator.exe
+C:\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\HandshakeEmulator.pdb
+C:\HandshakeEmulator\HandshakeEmulator\bin\x86\Debug\HandshakeEmulator.pdb
+C:\Users\Matteo\Documents\md\HandshakeEmulator\HandshakeEmulator\bin\x86\Debug\HandshakeEmulator.exe.config
+C:\Users\Matteo\Documents\md\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\HandshakeEmulator.exe
+C:\Users\Matteo\Documents\md\HandshakeEmulator\HandshakeEmulator\obj\x86\Debug\HandshakeEmulator.pdb

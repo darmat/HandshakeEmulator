@@ -1,0 +1,4 @@
+C:\Users\Matteo\Documents\Boeing\BackUp\HandshakeEmulator\HandshakeEmulator\bin\Debug\HandshakeEmulator.exe.config
+C:\Users\Matteo\Documents\Boeing\BackUp\HandshakeEmulator\HandshakeEmulator\obj\Debug\HandshakeEmulator.csprojResolveAssemblyReference.cache
+C:\Users\Matteo\Documents\Boeing\BackUp\HandshakeEmulator\HandshakeEmulator\obj\Debug\HandshakeEmulator.HandshakeUI.resources
+C:\Users\Matteo\Documents\Boeing\BackUp\HandshakeEmulator\HandshakeEmulator\obj\Debug\HandshakeEmulator.csproj.GenerateResource.Cache
